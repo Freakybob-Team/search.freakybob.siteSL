@@ -11,7 +11,10 @@ const backgrounds = [
     "images/pwetty colors.jpg",
     "images/pwetttyyy.jpg",
     "images/pexels-chetanvlad-1529360.jpg",
-    "images/pexels-veeterzy-39811.jpg"
+    "images/pexels-veeterzy-39811.jpg",
+    "images/Freaky_desktop_wallpaper.png",
+    "https://freakybob-team.github.io/Freakybob.siteSL/images/chirstmas-1.png",
+    "https://freakybob-team.github.io/Freakybob.siteSL/images/Spookyupdate!!.jpg",
 ];
 
 let currentIndex = 0;
